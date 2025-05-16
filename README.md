@@ -1,7 +1,7 @@
 # 🛡️ ON_CHAIN_MMORPG - Aptos On-Chain Role-Playing Game Smart Contract
 
 ## Overview
-
+**The code is not complete and is being improved**
 **ON_CHAIN_MMORPG** is a fully on-chain multiplayer online role-playing game (MMORPG) built on the Aptos blockchain. The contract is designed with modularity, interactivity, and a real economic system at its core. It implements player registration, equipment crafting, battle matchmaking, and an in-game currency system — all executed and stored on-chain to ensure transparency and immutability.
 
 ---
